@@ -1,0 +1,155 @@
+.tar {
+   background-color: #EAF6F6; 
+   height: 605px;
+   width: 102.6%;
+   margin: -1% 0% 0% -2%;
+}
+
+.imghawr1 {
+    position: relative;
+    left: 70%;
+    top: 30px;
+}
+
+h1 {
+    font-family: 'sacramento' , cursive;
+    color: #66BFBF;
+    padding: 50px;
+    margin-left: 40%;
+    
+}
+
+.program {
+    font-family: 'montserrat', sans-serif;
+    color: #66BFBF;
+    margin-left: 43%;
+}
+
+h2 {
+    font-family: 'montserrat', sans-serif;
+    color: #66BFBF;
+    margin-left: 46%;
+    
+}
+
+.imghawr2 {
+    position: relative;
+    display: block;
+    left: 25%;
+    top: 50px;
+}
+
+.imgchya {
+    width: 400px;
+    margin-left: 35%;
+    padding: 30px;ss
+}
+
+.imgme {
+    padding: 50px ;
+    height: 150px;
+    width: 150px;
+    margin-left: 40%;
+    border-radius: 75%;
+}
+
+.info {
+    font-family: 'marriwether', serif;
+    color: #40514E;
+    margin-left: 37%;
+}
+
+hr {
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    margin: 100px auto;
+    width: 3%;
+}
+
+.imghema {
+    border-radius:50%;
+    width: 150px;
+    height: 150px;
+    margin-left: 28%;
+    float: left;
+    
+
+}
+
+h3 {
+    margin-left: 44%;
+    color: #11999E;
+   
+}
+
+.Design {
+         margin-left: 40%;
+         color: #11999E;
+}
+
+p {
+     margin-left: 40%;
+}
+
+.imgbibar {
+    height: 150px;
+    width: 150px;
+    padding-top: 30px;
+    float: right;
+    margin-right: 34%;
+    
+}
+
+.hot {
+    padding-top: 30px;
+    margin-left: 28%;
+    color: #11999E;
+    
+}
+
+.bestskill {
+    margin-left: 28%;
+}
+
+.if {
+    margin-left: 43%;
+}
+
+.love {
+    text-align: center;
+    padding-bottom: 30px;
+    margin-left: 5%;
+    
+}
+
+.cme{
+    background-color:#11999E;
+    text-decoration: none;
+    color: white;
+    margin-left: 47%;
+    padding:5px 10px 5px 10px;
+}
+
+.f {
+    background-color: #11999E;
+    height: 100px;
+    width: 97%;
+    margin: 0% 0% -2% -0.9%;
+    padding: 30px;
+    text-align: center;
+}
+
+a {
+    padding: 30px;
+    text-decoration: none;
+    color: #004346;
+}
+
+.date {
+    margin-left: 2%;
+    color: #EAF6F6;
+}
+
+a:hover {
+    background: green;
+}
